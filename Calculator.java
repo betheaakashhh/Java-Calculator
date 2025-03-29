@@ -31,7 +31,7 @@ public class Calculator implements ActionListener{
 		
 		//icon
 		
-		ImageIcon icon = new ImageIcon("F:/technothings/java/JavaProjects/JavaSwing/OIP.jpg");
+		ImageIcon icon = new ImageIcon("OIP.jpg");
 		frame.setIconImage(icon.getImage());
 		
 		textfield = new JTextField();
